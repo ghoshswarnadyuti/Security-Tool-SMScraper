@@ -1,0 +1,20 @@
+# Web Scraper Module
+requests
+
+# Parser Module
+beautifulsoup4
+
+# Analyzer Module
+nltk
+
+# Report Generator Module (if using Pandas)
+pandas
+
+# Report Generator Module (if using Matplotlib)
+matplotlib
+
+# Report Generator Module (if using GeoPy)
+geopy
+
+# Report Generator Module (if using NetworkX)
+networkx
